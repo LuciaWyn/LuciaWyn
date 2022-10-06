@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lucy Wynne-Jones
+- 👋🏻 Hi, I’m Lucy Wynne-Jones
 - 🖥️ My GitHub username is @LuciaWyn
 - 👀 I’m interested in Laravel, VueJs, PiniaJs, React-Native and ElectronJs
 - 🌱 I’m currently learning many new things in tech.
